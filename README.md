@@ -60,3 +60,8 @@ This data analysis provides insightful information for investors into the demand
 Another useful analysis of this data could be to see which hours bikes were used the least, to plan out the most ideal time slots for maintenance of the bikes and adjust the price for a lower demand.
 
 Another analysis might be to take into consideration the average distance of rides by users, in order to more efficiently plan the locations of different bike stations.
+
+
+
+
+Click [here](https://public.tableau.com/authoring/Module15Challenge_16735517334180/NYCCitiBank#1) to view Tableau Public dashboard.
